@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech and video game 👀
 - 🌱 I’m currently learning at University of South-Eastern Norway for their Bachelor course at IT & Informationsystems 🌱
 - 💞️ I’m looking to collaborate on different projects related to applications, software and even websites 💞️
-- 📫 How to reach me ...
+
 
 <!---
 Ibbert/Ibbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
