@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Zaid 👋
-- 👀 I’m interested in tech and video game 👀
+- 👀 I’m interested in tech and video games 👀
 - 🌱 I’m currently learning at University of South-Eastern Norway for their Bachelor course at IT & Informationsystems 🌱
 - 💞️ I’m looking to collaborate on different projects related to applications, software, and even websites 💞️
 
