@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Ibrahim 👋
 - 👀 I’m interested in tech and video games 👀
 - 🌱 Self-taught programmer at first and learned the rest at University of South-Eastern Norway 🌱
-- ✨ Bachelor course at IT & Informationsystems ✨
 - 💞️ I’m looking to collaborate on different projects related to applications, software, and even websites 💞️
 
 
