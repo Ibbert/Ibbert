@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Ibrahim 👋
 - 👀 I’m interested in tech and programming 👀
 - 🌱 Self-taught programmer at first and learned the rest at University of South-Eastern Norway 🌱
-- 💞️ I’m looking to collaborate on different projects related to applications, software, and even websites 💞️
+- 💞️ Love making projects, either small or big. Hope you like them 💞️
 
 
 <!---
